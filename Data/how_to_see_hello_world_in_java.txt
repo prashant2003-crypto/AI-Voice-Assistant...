@@ -1,0 +1,54 @@
+**Hello World in Java**
+=========================
+
+To write a "Hello World" program in Java, you can use the following code:
+
+```java
+// Define a public class called HelloWorld
+public class HelloWorld {
+    // Define the main method where the program starts execution
+    public static void main(String[] args) {
+        // Print "Hello World" to the console
+        System.out.println("Hello World");
+    }
+}
+```
+
+Let me explain what this code does:
+
+* The `public class HelloWorld` line defines a new public class called `HelloWorld`.
+* The `public static void main(String[] args)` line defines the main method where the program starts execution.
+* The `System.out.println("Hello World")` line uses the `println` method to print the string "Hello World" to the console, followed by a newline character.
+
+**Example Use Case:**
+
+1. Open a text editor or an Integrated Development Environment (IDE) like Eclipse, NetBeans, or IntelliJ IDEA.
+2. Create a new file with a `.java` extension, for example, `HelloWorld.java`.
+3. Copy and paste the code into the file.
+4. Save the file.
+5. Compile the file using the `javac` command, for example, by typing `javac HelloWorld.java` in the terminal or command prompt.
+6. Run the compiled file using the `java` command, for example, by typing `java HelloWorld` in the terminal or command prompt.
+
+**Output:**
+
+When you run the program, you should see the following output:
+```
+Hello World
+```
+
+**Step-by-Step Instructions:**
+
+### Using the Command Line
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory where you saved the `HelloWorld.java` file.
+3. Compile the file using the `javac` command: `javac HelloWorld.java`
+4. Run the compiled file using the `java` command: `java HelloWorld`
+
+### Using an IDE
+
+1. Open your IDE and create a new Java project.
+2. Create a new Java class called `HelloWorld` and paste the code into it.
+3. Click the "Run" button or press the corresponding keyboard shortcut to run the program.
+
+That's it! You have successfully written and run a "Hello World" program in Java.

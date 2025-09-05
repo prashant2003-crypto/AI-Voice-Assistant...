@@ -1,0 +1,31 @@
+**Hello World in Python**
+=========================
+
+To write a "Hello World" program in Python, you can use the following code:
+
+```python
+# Print "Hello World" to the console
+print("Hello World")
+```
+
+Let me explain what this code does:
+
+* The `print()` function is used to output text to the console.
+* The string `"Hello World"` is passed as an argument to the `print()` function.
+
+**Example Use Case:**
+
+1. Open a text editor or an Integrated Development Environment (IDE) like PyCharm, Visual Studio Code, or Sublime Text.
+2. Create a new file with a `.py` extension, for example, `hello_world.py`.
+3. Copy and paste the code into the file.
+4. Save the file.
+5. Run the file using Python, for example, by typing `python hello_world.py` in the terminal or command prompt.
+
+**Output:**
+
+When you run the program, you should see the following output:
+```
+Hello World
+```
+
+That's it! You have successfully written and run a "Hello World" program in Python.
